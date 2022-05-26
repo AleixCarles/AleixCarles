@@ -7,4 +7,6 @@
 <p align="left">☀️  La meva estació preferida es l'estiu ☀️</p>
 
 <h3 align="left">📷 Xarxes socials:</h3>
-
+<p align="left">
+<a href="https://www.instagram.com/aleixcarless/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleixcarless" height="30" width="40" /></a>
+</p>
