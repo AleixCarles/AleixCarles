@@ -5,3 +5,6 @@
 <p align="left">📔  Estic a 1r any de ASIX-DAM, al IES Ebre de Tortosa 📔</p>
 <p align="left">👾  El meu passatemps es jugar a videojocs 👾</p>
 <p align="left">☀️  La meva estació preferida es l'estiu ☀️</p>
+
+<h3 align="left">Reds socials:</h3>
+
