@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soc Aleix Carles🙋‍♂️ 🙋‍♂️</h1>
+<h1 align="center">🙋‍ Hola! Soc Aleix Carles 🙋‍♂️♂️</h1>
 <h3>Aquest és el meu perfil de GitHub! Visc a L'Aldea un poble de les Terres de L'Ebre i soc del 15 de juliol de 2002😇</h3>
 
 <!--dfs
