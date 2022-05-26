@@ -3,8 +3,7 @@
 
 <p align="left">✉️  La meva adreça electronica és: aleixcarles@iesebre.com ✉️</p>
 <p align="left">📔  Estic a 1r any de ASIX-DAM, al IES Ebre de Tortosa 📔</p>
-<p align="left">👾  El meu passatemps es jugar a videojocs 👾
-![image](http://1.bp.blogspot.com/-vlFSI2oxwe4/U5R-nwjGngI/AAAAAAACJgM/HWMDR-oGHhQ/s1600/animaatjes-diamonds-61528.gif)</p>
+<p align="left">👾  El meu passatemps es jugar a videojocs 👾</p>
 <p align="left">☀️  La meva estació preferida es l'estiu ☀️</p>
 
 <h3 align="left">📷 Xarxes socials:</h3>
