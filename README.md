@@ -6,5 +6,5 @@
 <p align="left">👾  El meu passatemps es jugar a videojocs 👾</p>
 <p align="left">☀️  La meva estació preferida es l'estiu ☀️</p>
 
-<h3 align="left">Reds socials:</h3>
+<h3 align="left">📷 Xarxes socials:</h3>
 
