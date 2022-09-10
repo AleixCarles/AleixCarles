@@ -2,7 +2,7 @@
 <h4 align="center">Aquest és el meu perfil de GitHub! Visc a L'Aldea i soc del 15 de juliol de 2002😇</h4>
 
 <p align="left">✉️  La meva adreça electronica és: aleixcarles@iesebre.com ✉️</p>
-<p align="left">📔  Estic a 1r any de ASIX-DAM, al IES Ebre de Tortosa 📔</p>
+<p align="left">📔  Estic a 2n any de DAM, al IES Ebre de Tortosa 📔</p>
 <p align="left">👾  El meu passatemps es jugar a videojocs 👾</p>
 <p align="left">☀️  La meva estació preferida es l'estiu ☀️</p>
 
