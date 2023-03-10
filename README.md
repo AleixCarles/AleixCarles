@@ -4,7 +4,6 @@
 <p align="left">✉️  La meva adreça electronica és: aleixcarles@iesebre.com ✉️</p>
 <p align="left">📔  Estic a 2n any de DAM, al IES Ebre de Tortosa 📔</p>
 <p align="left">👾  El meu passatemps es jugar a videojocs 👾</p>
-<p align="left">☀️  La meva estació preferida es l'estiu ☀️</p>
 
 <h3 align="left">📷 Xarxes socials:</h3>
 <p align="left">
@@ -13,5 +12,6 @@
 <a href="https://twitter.com/Aleix_Carles_?t=LqOuCPajQ6KAyeYsyUNI6w&s=09" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="AleixCarles" height="30" width="40" /></a>
 </p>
 
-![image](http://1.bp.blogspot.com/-vlFSI2oxwe4/U5R-nwjGngI/AAAAAAACJgM/HWMDR-oGHhQ/s1600/animaatjes-diamonds-61528.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleixCarles&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleixCarles&theme=transparent&layout=compact)
