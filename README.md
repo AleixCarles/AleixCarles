@@ -1,10 +1,4 @@
-<h1 align="center">🙋‍ Hola! Soc Aleix Carles 🙋‍♂️</h1>
-<h4 align="center">Aquest és el meu perfil de GitHub! Visc a L'Aldea i soc del 15 de juliol de 2002😇</h4>
-
-<p align="left">✉️  La meva adreça electronica és: aleixcarles@iesebre.com ✉️</p>
-<p align="left">📔  Estic a 2n any de DAM, al IES Ebre de Tortosa 📔</p>
-<p align="left">👾  El meu passatemps es jugar a videojocs 👾</p>
-
+<h1 align="center">Soc Aleix Carles, Programador Full Stack </h1>
 <h3 align="left">📷 Xarxes socials:</h3>
 <p align="left">
 <a href="https://www.instagram.com/aleixcarless/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleixcarless" height="30" width="40" /></a>
